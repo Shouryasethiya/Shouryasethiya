@@ -3,6 +3,8 @@
 <!--
 **Shouryasethiya/Shouryasethiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+
+-->
 # 💫 About Me:
 🔭 I'm currently working on Building Myself along with Building strong problem-solving skills through competitive programming in Java <br>        and developing cloud-based and full-stack projects to strengthen my portfolio.<br>👯 I'm looking to collaborate on Open-source projects related to web development, cloud automation, and real-time collaborative <br>         applications.<br>🤝 I'm looking for help with Improving system design knowledge and exploring best practices in scalable cloud architectures.<br>🌱 I'm currently learning Advanced Data Structures & Algorithms, Java backend development, and cloud services on AWS <br>         and Microsoft Azure.<br>💬 Ask me about Java programming, DSA preparation, cloud fundamentals (Azure & AWS), or building interactive web applications.<br>⚡ Fun fact : When I'm not debugging code, I'm usually analyzing stock charts, creating superhero edits of my friends, or curating the <br>         perfect Hindi playlist on Spotify.  
 
@@ -21,4 +23,3 @@
 [![](https://visitcount.itsvg.in/api?id=Shouryasethiya&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
--->
